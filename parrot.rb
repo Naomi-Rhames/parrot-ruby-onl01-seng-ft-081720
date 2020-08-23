@@ -1,2 +1,3 @@
 def change_bird
-  bird=
+  bird=parrot
+  
