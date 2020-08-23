@@ -1,2 +1,3 @@
 def #parrot
-p
+  parrot = squawl
+  return
