@@ -1,5 +1,4 @@
-def parrot
-  parrot="Squak"
-  puts parrot.reverse
+def parrot(string = "Squawk!")
+  puts string 
   return parrot
 end 
