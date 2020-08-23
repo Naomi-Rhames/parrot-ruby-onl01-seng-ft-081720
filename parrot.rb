@@ -1,5 +1,5 @@
 def bird_name
-  biird= parrot
+  phrase = parrot
   puts name. squawl
   return name 
-end
+end 
