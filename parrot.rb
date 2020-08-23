@@ -1,3 +1,4 @@
 def #parrot
   parrot="Squak"
-  puts #parrot.rev
+  puts #parrot.reverse
+  
