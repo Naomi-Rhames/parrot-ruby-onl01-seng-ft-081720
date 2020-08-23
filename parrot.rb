@@ -1,3 +1,3 @@
-def #parrot
-  parrot = squawl
-  puts name =
+def bird_name
+  biird= squawl
+  puts name.reverse
