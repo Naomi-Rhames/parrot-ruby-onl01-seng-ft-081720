@@ -1,5 +1,5 @@
-def #parrot
+def parrot
   parrot="Squak"
-  puts #parrot.reverse
-  return #parrot
+  puts parrot.reverse
+  return parrot
 end
