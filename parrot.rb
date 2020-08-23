@@ -1,4 +1,4 @@
 def change_bird
-  bird=parrot
+  phrase
   return squak
 end
